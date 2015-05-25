@@ -12,7 +12,7 @@ function inherit(Child, Parent) { // child, parent
 }
 
 /**
- * Базовый объект для всех сущьностей на экране
+ * Базовый объект для всех сущностей на экране
  */
 function Unit(name) { 
     this.name = name || "Unit";
